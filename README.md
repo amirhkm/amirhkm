@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, geeks! 👋
 
-<!--
-**amirhkm/amirhkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am _Amirhossein Hakimelahi_. I am studying for a bachelor's degree at SBU,Iran. My favorite programming language is _Python_ and I like web develepment and web security. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌱 What have I done? 
+
+- I have created a chat system with flask. 
+- I have created a social media app using django. 
+- I have created a TV management system with java.
+
+
+### ⚡ One line that describes me best? 
+A lazy guy who loves learn new tech subjects but can't resist staying in bed and surfing the youtube....
+
+
+
+
+
