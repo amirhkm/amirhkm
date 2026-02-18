@@ -12,7 +12,7 @@ I am _Amirhossein Hakimelahi_. I am studying for a bachelor's degree at SBU,Iran
 
 
 ### ⚡ One line that describes me best? 
-A lazy guy who loves learn new tech subjects but can't resist staying in bed and surfing the youtube....
+Curiosity makes me wander anywhere Interesting .... Psychology , ML ,  Web Pen Test .... Anything challenging causes to make me feel alive and work as hard as if time flies ! 
 
 ### 📫 How to reach me?
 - [Email](https://amir.hakimelahi.88@gmail.com) 
